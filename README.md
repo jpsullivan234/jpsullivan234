@@ -2,8 +2,6 @@
 
 > I'm an adept problem solver with experience in hardware, software, and embedded systems.
 
----
-
 **Top Skills:**
 - C/C++
 - Python
@@ -11,7 +9,7 @@
 - Assembly
 - Git
 
-
+---
 
 ![John's github stats](https://github-readme-stats.vercel.app/api?username=jpsullivan234&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsullivan234&layout=compact&langs_count=8"/>
